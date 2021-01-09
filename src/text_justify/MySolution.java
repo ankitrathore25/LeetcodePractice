@@ -1,10 +1,10 @@
-package practice.Text_Justify;
+package text_justify;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Text_Justify {
+public class MySolution {
 	public static List<String> fullJustify(String[] words, int maxWidth) {
 		List<String> result = new ArrayList<>();
 
