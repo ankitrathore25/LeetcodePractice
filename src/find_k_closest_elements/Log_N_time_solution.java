@@ -9,6 +9,7 @@ public class Log_N_time_solution {
 	public static List<Integer> findClosestElements(int[] A, int k, int x) {
 		/*
 		 * Time O(Log N)
+		 * https://www.youtube.com/watch?v=ZZmIVlgDIlQ
 		 */
 		int left = 0, right = A.length - k;
 		while (left < right) {
@@ -28,7 +29,7 @@ public class Log_N_time_solution {
 		for (int i = 0; i < arrList.size(); i++)
 			arr[i] = arrList.get(i);
 
-		int k = 1;
+		int k = 5;
 		int x = 9;
 		List<Integer> ans1 = findClosestElements(arr, k, x);
 		for (int i = 0; i < ans1.size(); i++) {

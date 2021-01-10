@@ -1,5 +1,5 @@
 [Link](https://leetcode.com/problems/find-k-closest-elements/discuss/106426/JavaC++Python-Binary-Search-O(log(N-K)-+-K))
-
+[video explanation](https://www.youtube.com/watch?v=ZZmIVlgDIlQ)
 # Intuition
 
 The array is sorted.  
