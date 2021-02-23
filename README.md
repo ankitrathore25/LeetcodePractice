@@ -6,4 +6,4 @@
 
 
 ### Algorithm
-- [Union Find]()
+- [Union Find](https://github.com/ankitrathore25/LeetcodePractice/blob/main/src/algorithms/Union_Find.md)
